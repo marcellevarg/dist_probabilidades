@@ -1,2 +1,2 @@
 # dist_probabilidades
-Script para aplicação das distribuições de probabilidades GEV e Gumbel 
+Aplicação das distribuições de probabilidades GEV e Gumbel utilizando o teste de aderência de Anderson-Darling.  
